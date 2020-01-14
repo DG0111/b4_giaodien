@@ -1,0 +1,44 @@
+
+.slider {
+    position: relative;
+}
+
+.title-slider {
+    position: absolute;
+    top: 30%;
+    right: 20%;
+}
+
+.title-accessories {
+    border-bottom: 1px solid white;
+    margin-right: 120px;
+}
+.blog-content {
+    bottom: -80%;
+}
+
+.blog-time {
+    top: 10%;
+    left: 10%;
+    color: white;
+}
+.ubscribe {
+    margin-top: 250px;
+}
+
+.logo-footer {
+    font-size: 48px;
+}
+
+@media screen and (max-width: 1200px){
+    .khung-blog {
+        height: 600px;
+    }
+    .blog-content {
+        bottom: 5%;
+    }
+    .ubscribe {
+        margin-top: 50px;
+    }
+
+}
