@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc9722d-ffec-44f0-89fc-7bab25554f64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,7 @@
       <workItem from="1578968202670" duration="6905000" />
       <workItem from="1578988767293" duration="23248000" />
       <workItem from="1579056841526" duration="2309000" />
+      <workItem from="1579077861668" duration="5212000" />
     </task>
     <task id="LOCAL-00001" summary="Xong responsive">
       <created>1579059154295</created>
@@ -90,10 +91,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579003723810" />
-    <state x="359" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579056842544">
+    <state x="359" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579077869517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579056842544" />
+    <state x="359" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579077869517" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1578964450048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,4 +1,9 @@
 
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
 .slider {
     position: relative;
 }
@@ -9,10 +14,14 @@
     right: 20%;
 }
 
-.title-accessories {
-    border-bottom: 1px solid white;
-    margin-right: 120px;
+
+.position-acc {
+    border-bottom: 1px solid #ffffff;
+    bottom: 10%;
+    width: 50%;
+    text-align: center;
 }
+
 .blog-content {
     bottom: -80%;
 }
@@ -28,6 +37,10 @@
 
 .logo-footer {
     font-size: 48px;
+}
+
+.size-logo{
+    font-size: 26px;
 }
 
 @media screen and (max-width: 1200px){
